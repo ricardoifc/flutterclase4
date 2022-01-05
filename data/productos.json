@@ -5,7 +5,8 @@
     "category": "NOP",
     "imageUrl": "https://m.media-amazon.com/images/I/81S-ekaE+vS._AC_UL320_.jpg",
     "oldPrice": "1899",
-    "price": "799"
+    "price": "799",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 1,
@@ -13,7 +14,8 @@
     "category": "Men",
     "oldPrice": "999",
     "imageUrl": "https://m.media-amazon.com/images/I/61hMQOHmEIL._AC_UL320_.jpg",
-    "price": "719"
+    "price": "719",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 2,
@@ -21,7 +23,8 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/81b9Eh286BL._AC_UL320_.jpg",
     "oldPrice": "1349",
-    "price": "944"
+    "price": "944",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 3,
@@ -29,7 +32,8 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/61U-R3-znNL._AC_UL320_.jpg",
     "oldPrice": "999",
-    "price": "469"
+    "price": "469",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 4,
@@ -37,7 +41,8 @@
     "category": "men",
     "imageUrl": "https://m.media-amazon.com/images/I/81Ud8DjRbXL._AC_UL320_.jpg",
     "oldPrice": "849",
-    "price": "760"
+    "price": "760",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 5,
@@ -45,7 +50,8 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/71M5-l4H-aL._AC_UL320_.jpg",
     "oldPrice": "599",
-    "price": "449"
+    "price": "449",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 6,
@@ -53,7 +59,8 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/71OEHq3M-9L._AC_UL320_.jpg",
     "oldPrice": "2799",
-    "price": "1196"
+    "price": "1196",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 7,
@@ -61,7 +68,8 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/81iRr9yEzxL._AC_UL320_.jpg",
     "oldPrice": "1049",
-    "price": "890"
+    "price": "890",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 8,
@@ -69,7 +77,8 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/81iqNypAS-L._AC_UL320_.jpg",
     "oldPrice": "3699",
-    "price": "999"
+    "price": "999",
+    "buyURL": "https://www.amazon.com/"
   },
   {
     "id": 9,
@@ -77,6 +86,7 @@
     "category": "Men",
     "imageUrl": "https://m.media-amazon.com/images/I/61Uu4ZpqCDL._AC_UL320_.jpg",
     "oldPrice": "1499",
-    "price": "719"
+    "price": "719",
+    "buyURL": "https://www.amazon.com/"
   }
 ]

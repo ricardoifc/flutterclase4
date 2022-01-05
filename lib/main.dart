@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutterclase4/splash.dart';
 import 'package:flutterclase4/providers/provider_product.dart';
 import 'package:flutter/services.dart' as rootBundle;
+import 'package:url_launcher/url_launcher.dart';
 
 
 void main() {
@@ -85,11 +86,21 @@ class _MyHomePageState extends State<MyHomePage> {
                                   Padding(padding: EdgeInsets.only(left: 20,right: 8),child: Text(items[index].price.toString()),)
                                 ],
                               ),
-                            ))
+                            )),
+                            Container(
+                              child: new RaisedButton(
+                            onPressed: () {
+                              launch(items[index].buyURL.toString());
+                              print(items[index].buyURL.toString());
+                              },
+                                child: const Text('Comprar'),
+                              )
+                            )
                           ],
                         ),
                       ),
                     );
+
                   }
               );
             }else{

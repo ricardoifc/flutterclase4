@@ -5,6 +5,8 @@ class ProductDataModel{
   String? imageURL;
   String? oldPrice;
   String? price;
+  String? buyURL;
+
 
   ProductDataModel(
       {
@@ -13,7 +15,8 @@ class ProductDataModel{
         this.category,
         this.imageURL,
         this.oldPrice,
-        this.price
+        this.price,
+        this.buyURL
       });
 
   ProductDataModel.fromJson(Map<String,dynamic> json)
@@ -24,5 +27,6 @@ class ProductDataModel{
     imageURL = json['imageUrl'];
     oldPrice = json['oldPrice'];
     price = json['price'];
+    buyURL = json['buyURL'];
   }
 }
